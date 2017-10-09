@@ -10,7 +10,7 @@
     "lint": "eslint --ext .js,.vue src",
     "lint-fix": "eslint --fix --ext .js,.vue src"
   },
-  "main": "dist/index.html",
+  "main": "https://trialphi.github.io/Trialphi-App/dist/#/",
   "engines": {
     "node": "6.11.3"
   },
@@ -80,5 +80,5 @@
     "webpack-hot-middleware": "^2.18.2",
     "webpack-merge": "^4.1.0"
   },
-  "homepage": "https://trialphi.github.io/Trialphi-App/dist/#/"
+  "homepage": "https://trialphi.github.io/Trialphi-App/dist/"
 }
