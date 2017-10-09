@@ -80,5 +80,5 @@
     "webpack-hot-middleware": "^2.18.2",
     "webpack-merge": "^4.1.0"
   },
-  "homepage": "https://github.com/TrialPhi/Trialphi-App/dist/index.html"
+  "homepage": "https://trialphi.github.io/Trialphi-App/dist/#/"
 }
