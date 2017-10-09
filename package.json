@@ -10,7 +10,14 @@
     "lint": "eslint --ext .js,.vue src",
     "lint-fix": "eslint --fix --ext .js,.vue src"
   },
-  "repository": "null",
+  "main": "dist/index.html",
+  "engines": {
+    "node": "6.11.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrialPhi/Trialphi-App.git"
+  },
   "license": "MIT",
   "dependencies": {
     "axios": "^0.16.2",
@@ -72,5 +79,6 @@
     "webpack-dev-middleware": "^1.12.0",
     "webpack-hot-middleware": "^2.18.2",
     "webpack-merge": "^4.1.0"
-  }
+  },
+  "homepage": "https://github.com/TrialPhi/Trialphi-App/dist/index.html"
 }
