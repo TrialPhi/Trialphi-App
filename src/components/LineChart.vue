@@ -1,7 +1,8 @@
 <template>
 <div>
   <h5 class="charttitle">
-    {{dataset}}
+  <!--  {{dataset}} -->
+  Title
   </h5>
   <div ref="chart"></div>
 </div>
@@ -131,7 +132,7 @@ export default {
 
 <style lang="stylus">
 .charttitle {
-  width: 100%;
+  width: 80%;
   text-align: center;
 }
 </style>
