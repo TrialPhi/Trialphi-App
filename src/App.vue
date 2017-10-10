@@ -31,7 +31,6 @@
         -->
 
       <q-list no-border link inset-delimiter dense>
-        <!-- <q-scroll-area slot="left" style="width: 100%; height: 100%"> -->
         <q-list-header>Menu</q-list-header>
         <q-side-link item to="/" exact>
           <q-item-side icon="home" />
@@ -92,7 +91,6 @@
           <q-item-side icon="insert drive file" />
           <q-item-main label="Templates" sublabel="Manage document templates" />
         </q-side-link>
-          <q-item-separator />
         <q-list-header>Settings</q-list-header>
         <q-side-link item to="/admin" exact>
           <q-item-side icon="settings" />
@@ -106,7 +104,6 @@
           <q-item-side icon="lock" />
           <q-item-main label="Access Controls" sublabel="Manage access levels" />
         </q-side-link>
-     <!-- </q-scroll-area> -->
       </q-list>
     </div>
 
