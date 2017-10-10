@@ -1,7 +1,7 @@
 <template>
     <div class="layout-padding logo-container non-selectable no-pointer-events">
       <div class="logo">
-        <img src="~assets/phi.svg.png" width="50%">
+        <img src="~assets/phi.svg.png" width="30%" class="centered">
       </div>
     </div>
 </template>
