@@ -12,7 +12,7 @@
   },
   "main": "https://trialphi.github.io/Trialphi-App/dist/#/",
   "engines": {
-    "node": "6.11.3"
+    "node": "^6.11.3"
   },
   "repository": {
     "type": "git",
